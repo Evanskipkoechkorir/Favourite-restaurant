@@ -10,7 +10,7 @@ This is a website for my favorite restaurant. It includes a home page, a menu pa
 
 ## Viewing the Project
 
-To view the project, visit the [GitHub Pages site](https://your-username.github.io/favorite-restaurant/).
+To view the project, visit the [GitHub Pages site](https://Evanskipkoechkorir/Favorite-restaurant/).
 
 ## Deployment
 
@@ -18,7 +18,7 @@ This project is deployed using GitHub Pages. To deploy your own version:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/favorite-restaurant.git
+    git clone https://github.com//Evanskipkoechkorir/Favorite-restaurant.git
     cd favorite-restaurant
     ```
 
